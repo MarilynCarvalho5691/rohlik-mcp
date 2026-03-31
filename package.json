@@ -1,6 +1,6 @@
 {
   "name": "rohlik-mcp",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "MCP server that lets you shop groceries across the Rohlik Group platforms (Rohlik.cz, Knuspr.de, Gurkerl.at, Kifli.hu, Sezamo.ro)",
   "main": "src/index.ts",
   "scripts": {
